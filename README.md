@@ -19,7 +19,6 @@
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  ![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)
 </div>
 ---
 
